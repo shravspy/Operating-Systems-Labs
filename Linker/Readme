@@ -1,0 +1,15 @@
+STEPS:
+
+1) Create a makefile using command 'make'
+
+2) ./runit.sh /home/netid/lab1/lab1samples/outdir /home/netid/lab1/lab1samples/Linker
+
+3) ./gradeit.sh . outdir 
+
+
+
+I get below details of clang on my mac for version :
+
+
+Configured with: --prefix=/Applications/Xcode.app/Contents/Developer/usr --with-gxx-include-dir=/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.14.sdk/usr/include/c++/4.2.1
+Apple LLVM version 10.0.1 (clang-1001.0.46.4)
